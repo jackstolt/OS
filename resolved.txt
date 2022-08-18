@@ -1,0 +1,195 @@
+flickr.com, 18.67.29.73
+, NOT_RESOLVED
+alipay.com, 110.75.139.5
+ifeng.com, 82.156.59.186
+¬`Ÿ, NOT_RESOLVED
+, NOT_RESOLVED
+goo.ne.jp, 114.179.184.93
+Ð	`Ÿ, NOT_RESOLVED
+Q€, NOT_RESOLVED
+™`Ÿ, NOT_RESOLVED
+ˆ`Ÿ, NOT_RESOLVED
+ˆù€`Ÿ, NOT_RESOLVED
+˜, NOT_RESOLVED
+bing.com, 13.107.21.200
+taobao.com, 140.205.94.189
+sina.com.cn, 123.126.45.205
+microsoft.com, 20.103.85.33
+skype.com, 20.81.111.85
+qq.com, 123.151.137.18
+blogspot.com, 142.250.72.41
+baidu.com, 220.181.38.251
+yahoo.com, 98.137.11.163
+msn.com, 13.82.28.61
+wikipedia.org, 208.80.153.224
+live.com, 204.79.197.212
+facebook.com, 157.240.28.35
+, NOT_RESOLVED
+youtube.com, 142.250.72.46
+, NOT_RESOLVED
+wmfo.org, 23.92.21.128
+soso.com, 119.28.109.132
+, NOT_RESOLVED
+, NOT_RESOLVED
+, NOT_RESOLVED
+, NOT_RESOLVED
+P, 172.20.59.20
+p, 172.20.59.20
+, NOT_RESOLVED
+, NOT_RESOLVED
+, NOT_RESOLVED
+, NOT_RESOLVED
+taobao.com, 140.205.94.189
+·fb, NOT_RESOLVED
+ÍºÍÕˆ
+, NOT_RESOLVED
+tmall.com, 140.205.94.193
+ehow.com, 23.211.17.26
+er.internal
+# End of section
+, NOT_RESOLVED
+hen the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.dock, NOT_RESOLVED
+mediafire.com, 104.16.203.237
+r>
+	<key>flow_report_denominator</key>
+	<integer>500000</integer>
+	<key>flow_report_numerator</key>
+	<integer>1</integer>
+	<key>statistics_report_denominator</key>
+	<integer>200000</integer>
+	<key>statistics_report_numerator</key>
+	<integer>1</integer>
+</dqq.com, NOT_RESOLVED
+_quic</key>
+	<false/>
+	<key>enable_quic_denominator5</key>
+	<integer>100</integer>
+	<key>enable_quic_denominator6</key>
+	<integer>100</integer>
+	<key>enable_quic_numerator5</key>
+	<integer>55</integer>
+	<key>enable_quic_numerator6</key>
+	<integer>0</intege˜, NOT_RESOLVED
+nator</key>
+	<integer>100</integer>
+	<key>ech_canary_numerator</key>
+	<integer>1</integer>
+	<key>ech_probe_denominator</key>
+	<integer>5000</integer>
+	<key>ech_probe_enabled</key>
+	<false/>
+	<key>ech_probe_numerator</key>
+	<integer>1</integer>
+	<key>enableqq.com, NOT_RESOLVED
+network_experiments</key>
+	<integer>1</integer>
+	<key>activity_report_denominator_network_speed_test</key>
+	<integer>1000</integer>
+	<key>activity_report_destination</key>
+	<integer>5</integer>
+	<key>disable_quic_race</key>
+	<true/>
+	<key>ech_canary_denomiqq.com, NOT_RESOLVED
+eport_denominator_cfnetwork</key>
+	<integer>2000000</integer>
+	<key>activity_report_denominator_cloud_media_services</key>
+	<integer>1000</integer>
+	<key>activity_report_denominator_facetime</key>
+	<integer>1000</integer>
+	<key>activity_report_denominator_sogou.com, NOT_RESOLVED
+or</key>
+	<integer>1</integer>
+	<key>activity_default_numerator2</key>
+	<integer>1</integer>
+	<key>activity_report_denominator_appstore</key>
+	<integer>1000</integer>
+	<key>activity_report_denominator_battery</key>
+	<integer>1000</integer>
+	<key>activity_rqq.com, NOT_RESOLVED
+ST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activity_default_denominator</key>
+	<integer>20000</integer>
+	<key>activity_default_denominator2</key>
+	<integer>20000</integer>
+	<key>activity_default_numeratmediafire.com, NOT_RESOLVED
+ku6.com, 117.50.1.222
+sogou.com, 119.28.109.132
+blogspot.com, 142.250.72.41
+rapidshare.com, 0.0.0.0
+ebay.com, 216.113.179.53
+baidu.com, 220.181.38.251
+answers.com, 151.101.192.203
+ict>
+</plist>
+, NOT_RESOLVED
+msn.com, 13.82.28.61
+windows.com, 20.112.52.29
+blogger.com, 142.250.72.73
+wikipedia.org, 208.80.153.224
+pps.tv, 116.211.199.235
+vkontakte.ru, 87.240.139.194
+apple.com, 17.253.144.10
+live.com, 204.79.197.212
+livedoor.jp, NOT_RESOLVED
+yahoo.com, 98.137.11.163
+megaupload.com, NOT_RESOLVED
+ÿÿÿÿ, NOT_RESOLVED
+youtube.com, 142.250.72.46
+sohu.com, 123.125.116.28
+yahoo.co.jp, 183.79.250.123
+alibaba.com, 47.246.136.125
+facebook.com, 157.240.28.35
+wordpress.com, 192.0.78.17
+tudou.com, 106.11.43.246
+amazon.com, 205.251.242.103
+weather.com, 23.66.89.214
+craigslist.org, 208.82.237.129
+soku.com, 106.11.47.20
+360.cn, 36.110.213.10
+renren.com, 120.133.2.152
+hotmail.com, 204.79.197.212
+odnoklassniki.ru, 217.20.155.13
+jp.msn.com, 13.88.15.24
+pconline.com.cn, 219.136.244.85
+qiyi.com, 111.206.13.64
+ebay.de, 216.113.179.53
+hotfile.com, 18.207.9.28
+walmart.com, 161.170.232.170
+hp.com, 15.73.104.147
+hao123.com, 39.156.68.154
+partypoker.com, 195.72.134.91
+aol.com, 98.136.103.23
+zynga.com, 54.192.122.128
+imdb.com, 52.94.237.74
+youdao.com, 103.74.50.106
+kugou.com, 49.7.81.4
+mywebsearch.com, 34.117.28.143
+cnn.com, 151.101.129.67
+dailymotion.com, 195.8.215.136
+linkedin.com, 13.107.42.14
+imageshack.us, 208.94.3.19
+amazon.co.jp, 52.119.161.5
+ameblo.jp, 199.232.210.133
+naver.com, 223.130.195.200
+4shared.com, 204.155.149.41
+softonic.com, 35.227.233.104
+orkut.com, 216.239.36.21
+go.com, 23.236.60.174
+cnet.com, 34.149.196.126
+myspace.com, 34.150.242.72
+nifty.com, 222.158.213.148
+bbc.co.uk, 151.101.128.81
+mail.ru, 94.100.180.201
+4399.com, 129.211.129.109
+yandex.ru, 77.88.55.66
+tianya.cn, 124.225.206.22
+paipai.com, 106.39.169.133
